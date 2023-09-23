@@ -1,4 +1,4 @@
-ESP/sdkcondig
-ESP/CMakeList.txt
-ESP/build/
-ESP/.vscode/
+ESP32/sdkcondig
+ESP32/CMakeList.txt
+ESP32/build/
+ESP32/.vscode/
