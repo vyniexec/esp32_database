@@ -1,4 +1,4 @@
-sdkcondig
-CMakeList.txt
-build/
-.vscode/
+ESP/sdkcondig
+ESP/CMakeList.txt
+ESP/build/
+ESP/.vscode/
