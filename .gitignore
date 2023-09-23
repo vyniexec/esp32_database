@@ -1,4 +1,4 @@
 sdkcondig
 CMakeList.txt
-/build
-/.vscode
+build/
+.vscode/
